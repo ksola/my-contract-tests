@@ -1,0 +1,13 @@
+{
+  "id" : "806cb8be-0d4c-44ba-8b9b-37fdb6492c4e",
+  "request" : {
+    "url" : "/managed/forenames?match=Krystian Sola",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"total\":0,\"numberOfPages\":0,\"values\":[{\"value\":\"krystian\"}],\"pageSize\":0,\"page\":0}",
+    "transformers" : [ "response-template" ]
+  },
+  "uuid" : "806cb8be-0d4c-44ba-8b9b-37fdb6492c4e"
+}

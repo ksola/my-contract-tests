@@ -1,0 +1,13 @@
+{
+  "id" : "308718cc-9e41-4f31-a687-1ac5733e2bb4",
+  "request" : {
+    "url" : "/",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "Hello",
+    "transformers" : [ "response-template" ]
+  },
+  "uuid" : "308718cc-9e41-4f31-a687-1ac5733e2bb4"
+}
